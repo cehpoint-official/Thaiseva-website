@@ -1,5 +1,6 @@
 import React, { useEffect, useRef, useState } from 'react'
 import Users from "../assets/Landing-Img/users.png"
+import Test from './Text'
 
 const User = () => {
 
@@ -111,7 +112,10 @@ const User = () => {
                     <i className={`z-50 ${!firstButton ? " bi bi-chevron-down" : "bi bi-chevron-up"}`}></i>
                 </button>
             </div>
-            <div onMouseLeave={e => setFirstButton(false)} className={` z-50 ${!firstButton ? "hidden" : ""}  bg-slate-300`}>
+            <div
+                onMouseLeave={e => setFirstButton(false)}
+                onClick={e => setFirstButton(false)}
+                className={` z-50 ${!firstButton ? "hidden" : ""}  bg-slate-300`}>
                 <p className='hover:bg-slate-200 p-2  focus:bg-slate-400' tabindex="0">
                     1. Identify the version of the operating system on your Mac.
                 </p>
@@ -131,7 +135,10 @@ const User = () => {
                     <i className={`z-50 ${!secondButton ? " bi bi-chevron-down" : "bi bi-chevron-up"}`}></i>
                 </button>
             </div>
-            <div onMouseLeave={e => setSecondButton(false)} className={` z-50 ${!secondButton ? "hidden" : ""}  bg-slate-300`}>
+            <div
+                onMouseLeave={e => setSecondButton(false)}
+                onClick={e => setSecondButton(false)}
+                className={` z-50 ${!secondButton ? "hidden" : ""}  bg-slate-300`}>
                 <p className='hover:bg-slate-200 p-2  focus:bg-slate-400' tabindex="0">
                     1. Operating System: THAISEVA requires a certain version of macOS or Windows.
                 </p>
@@ -153,7 +160,10 @@ const User = () => {
                 </button>
             </div>
 
-            <div onMouseLeave={e => setThirdButton(false)} className={` z-50 ${!thirdButton ? "hidden" : ""}  bg-slate-300`}>
+            <div
+                onMouseLeave={e => setThirdButton(false)}
+                onClick={e => setThirdButton(false)}
+                className={` z-50 ${!thirdButton ? "hidden" : ""}  bg-slate-300`}>
                 <p className='hover:bg-slate-200 p-2  focus:bg-slate-400' tabindex="0">
                     1. Encrypts data.
                 </p>
@@ -175,7 +185,10 @@ const User = () => {
                 </button>
             </div>
 
-            <div onMouseLeave={e => setFourButton(false)} className={` z-50 ${!fourButton ? "hidden" : ""}  bg-slate-300`}>
+            <div
+                onMouseLeave={e => setFourButton(false)}
+                onClick={e => setFourButton(false)}
+                className={` z-50 ${!fourButton ? "hidden" : ""}  bg-slate-300`}>
                 <p className='hover:bg-slate-200 p-2  focus:bg-slate-400' tabindex="0">
                     1. Website: Check THAISEVA's website for a privacy policy link.
                 </p>
@@ -189,8 +202,10 @@ const User = () => {
             </div>
 
         </div>
-
     </div>
 }
 
 export default User
+
+
+
