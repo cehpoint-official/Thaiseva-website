@@ -57,7 +57,7 @@
 
 .aboutImg {
     background-image: url(../assets/AboutImg/back-Img.png);
-    height: auto;
+    height: 100vh;
     width: 100%;
 }
 
@@ -72,6 +72,15 @@
     background-image: url(../assets/AboutImg/back-Img-3.png);
     height: auto;
     width: 100%;
-    /* background-color: rgb(37, 27, 27); */
+    /* background-color: gb(158, 224, 26); */
     background-repeat: no-repeat;
+}
+
+.contactBackImg {
+    background-image: url(../assets/ContactImg/back-Img.png);
+    height: auto;
+    width: 100%;
+    object-fit: fill;
+    background-color: rgb(8, 9, 7);
+    /* background-repeat: no-repeat; */
 }

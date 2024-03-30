@@ -1,15 +1,8 @@
 import React from 'react'
-import Navbar from './components/Navbar'
-import Footer from './components/Footer'
 import Home from './components/Home'
-import Overview from './components/Overview'
-import Guide from './components/Guide'
-import Preview from './components/Preview'
-import User from './components/User'
-import Subscribe from './components/Subscribe'
 import { BrowserRouter, Route, Routes } from 'react-router-dom'
 import About from './pages/about/About'
-import Contact from './pages/Contact'
+import Contact from './pages/contact/Contact'
 
 const App = () => {
   return <>

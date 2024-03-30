@@ -9,7 +9,7 @@ import googlePay from "../assets/Landing-Img/Home/google-pay.png"
 
 const Footer = () => {
     return <>
-        <div className="previewBackImg mt-32">
+        <div className="previewBackImg">
             <div className='grid grid-cols-12 text-white mx-12 pt-20 pb-10 gap-8'>
                 <div className='col-span-12  pb-10 md:col-span-4 lg:col-span-4 border-b md:border-b-0 '>
                     <div className='flex items-center space-x-2'>

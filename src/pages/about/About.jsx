@@ -4,11 +4,12 @@ import { Link } from 'react-router-dom'
 import AboutApp from './AboutApp'
 import Mission from './Mission'
 import Team from './Team'
+import Footer from '../../components/Footer'
 
 const About = () => {
     return <>
         <div className='aboutImg'>
-            <div className='bg-slate-900 bg-opacity-90 text-white text-center'>
+            <div className='bg-slate-950 h-full bg-opacity-90 text-white text-center'>
                 <Navbar />
                 <div className='py-[8.5rem] px-10'>
                     <div className='flex justify-center gap-2'>
@@ -30,6 +31,7 @@ const About = () => {
         <AboutApp />
         <Mission />
         <Team />
+        <Footer />
 
     </>
 }
