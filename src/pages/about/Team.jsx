@@ -2,7 +2,7 @@ import React from 'react'
 import TeamOne from "../../assets/AboutImg/Team-1.png"
 import TeamTwo from "../../assets/AboutImg/Team-2.png"
 import TeamThree from "../../assets/AboutImg/Team-3.png"
-// import Work from "../../assets/AboutImg/Work.png"
+import WorkImg from "../../assets/AboutImg/work.png"
 
 const Team = () => {
     return <>
@@ -64,7 +64,7 @@ const Team = () => {
 
         <div className='grid grid-cols-12 mx-8 pt-10 my-20'>
             <div className='col-span-12 md:col-span-6 sm:col-span-8 sm:col-start-3  lg:col-span-6 p-4 '>
-                {/* <img src={Work} alt="" className='' /> */}
+                <img src={WorkImg} alt="" className='' />
             </div>
             <div className='col-span-12 md:col-span-6  sm:col-span-8 sm:col-start-3  lg:col-span-6  p-4 lg:mt-10'>
                 <p className='text-yellow-500 font-semibold text-2xl '>THAISEVA</p>
