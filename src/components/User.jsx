@@ -1,4 +1,4 @@
-import React, { useState } from 'react'
+import React, { useEffect, useRef, useState } from 'react'
 import Users from "../assets/Landing-Img/users.png"
 
 const User = () => {
@@ -10,7 +10,7 @@ const User = () => {
 
 
 
-    return <>
+    return <div >
         <div className='flex-col text-center items-center  lg:mt-40 mt-20'>
             <p className='md:text-4xl text-3xl font-semibold '>
                 <i className='bi text-yellow-500 bi-dot text-5xl'></i>
@@ -104,10 +104,10 @@ const User = () => {
         </div>
         <div className='lg:mx-28 md:20 mx-10 text-xl mb-20 '>
             <div className='flex justify-between items-center py-4 px-2 border-b-2 border-slate-400'>
-                <button onClick={e => setFirstButton(!firstButton)}>
+                <button onClick={e => setFirstButton(true)}>
                     I’ve got older Mac. Is THAISEVA compatible with it?
                 </button>
-                <button onClick={e => setFirstButton(!firstButton)}>
+                <button onClick={e => setFirstButton(true)}>
                     <i className={`z-50 ${!firstButton ? " bi bi-chevron-down" : "bi bi-chevron-up"}`}></i>
                 </button>
             </div>
@@ -190,7 +190,7 @@ const User = () => {
 
         </div>
 
-    </>
+    </div>
 }
 
 export default User
