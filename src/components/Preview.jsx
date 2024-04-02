@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import GroupImg from "../assets/Landing-Img/Preview/Group.jpeg"
 import Iphone from "../assets/Landing-Img/Preview/iPhone-img.png"
+import Test from '../pages/test';
 
 
 const Preview = () => {
@@ -28,12 +29,17 @@ const Preview = () => {
                 <i className='bi text-yellow-500 bi-dot text-5xl'></i>
             </p>
             <div className='text-center flex justify-center'>
-                <p className='m-6 text-slate-600  lg:w-[39%] md:w-[55%]'>Improving your small business's growth through Onir app. It also help to improve yourcustomer service an</p>
+                <p className='m-6 text-slate-600  lg:w-[39%] md:w-[55%]'>Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an</p>
             </div>
         </div>
-        <div className='flex justify-center mx-10 mb-10'>
-            <img src={GroupImg} alt="" className=' lg:h-[40rem]' />
-        </div>
+        {/* <div className='flex justify-center mx-10 mb-10'>
+            <img src={GroupImg} alt="" className=' lg:h-[40rem]'/>
+        </div> */}
+
+
+
+        <Test />
+
 
 
         <div className='previewBackImg group'>

@@ -10,7 +10,6 @@ const User = () => {
     const [fourButton, setFourButton] = useState(false)
 
 
-
     return <div >
         <div className='flex-col text-center items-center  lg:mt-40 mt-20'>
             <p className='md:text-4xl text-3xl font-semibold '>
@@ -19,7 +18,7 @@ const User = () => {
                 USERS SAY
             </p>
             <div className='text-center flex justify-center'>
-                <p className='m-6 text-slate-600  lg:w-[39%] md:w-[55%]'>Improving your small business's growth through Onir app. It also help to improve yourcustomer service an</p>
+                <p className='m-6 text-slate-600  lg:w-[39%] md:w-[55%]'>Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an</p>
             </div>
         </div>
 
@@ -100,7 +99,7 @@ const User = () => {
                 ASKED QUECTION
             </p>
             <div className='text-center flex justify-center'>
-                <p className='m-6 text-slate-600  lg:w-[39%] md:w-[55%]'>Improving your small business's growth through Onir app. It also help to improve yourcustomer service an</p>
+                <p className='m-6 text-slate-600  lg:w-[39%] md:w-[55%]'>Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an</p>
             </div>
         </div>
         <div className='lg:mx-28 md:20 mx-10 text-xl mb-20 '>

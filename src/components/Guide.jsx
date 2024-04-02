@@ -14,7 +14,7 @@ const Guide = () => {
                     GET YOUR BEST GUIDE, <span className='text-yellow-500 '>THAISEVA</span>
                 </p>
                 <div className='text-center flex justify-center'>
-                    <p className='m-6 text-slate-600  lg:w-[39%] md:w-[55%]'>Improving your small business's growth through Onir app. It also help to improve yourcustomer service an</p>
+                    <p className='m-6 text-slate-600  lg:w-[39%] md:w-[55%]'>Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an</p>
                 </div>
             </div>
             <div className='grid grid-cols-12 text-white mx-10 bg-slate-900'>
@@ -25,7 +25,7 @@ const Guide = () => {
                     <p className='text-6xl text-slate-700 font-semibold'>01</p>
                     <p className='my-4 text-3xl font-semibold'>Local Assistance</p>
                     <p className='text-slate-400'>
-                        Improving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yo
+                        Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yo
                     </p>
                 </div>
 
@@ -34,7 +34,7 @@ const Guide = () => {
                     <p className='text-6xl text-slate-700 font-semibold'>02</p>
                     <p className='my-4 text-3xl font-semibold'>Easy Food Ordering</p>
                     <p className='text-slate-400'>
-                        Improving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yo
+                        Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yo
                     </p>
                 </div>
                 <div className='col-span-12 md:col-span-6 lg:col-span-6'>
@@ -49,7 +49,7 @@ const Guide = () => {
                     <p className='text-6xl text-slate-700 font-semibold'>03</p>
                     <p className='my-4 text-3xl font-semibold'>Fast Room Booking</p>
                     <p className='text-slate-400'>
-                        Improving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yo
+                        Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yo
                     </p>
                 </div>
 
@@ -59,7 +59,7 @@ const Guide = () => {
                         Car booking with Best Sightseeing Packages
                     </p>
                     <p className='text-slate-400'>
-                        Improving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yourcustomer service anImproving your small business's growth through Onir app. It also help to improve yo
+                        Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yourcustomer service anImproving your small business's growth through THAISEVA app. It also help to improve yo
                     </p>
                 </div>
                 <div className='col-span-12 md:col-span-6 lg:col-span-6'>

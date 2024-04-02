@@ -13,7 +13,7 @@ const Subscribe = () => {
 
                 </p>
                 <div className='text-center flex justify-center'>
-                    <p className='m-6 text-slate-300  lg:w-[30%] md:w-[55%]'>Improving your small business's growth through Onir app. It also </p>
+                    <p className='m-6 text-slate-300  lg:w-[30%] md:w-[55%]'>Improving your small business's growth through THAISEVA app. It also </p>
                 </div>
             </div>
             <div className='flex-col text-center items-center mt-14 '>
@@ -29,7 +29,7 @@ const Subscribe = () => {
                 TODAY!
             </p>
             <div className='text-center flex justify-center'>
-                <p className='m-6 text-slate-400   lg:w-[30%] md:w-[55%]'>Improving your small business's growth through Onir app. It also </p>
+                <p className='m-6 text-slate-400   lg:w-[30%] md:w-[55%]'>Improving your small business's growth through THAISEVA app. It also </p>
             </div>
         </div>
         <div className='sm:flex sm:space-x-10 mx-10 lg:gap-28 gap-10 justify-center mb-14'>

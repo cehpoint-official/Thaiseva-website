@@ -18,7 +18,7 @@ const About = () => {
                     </div>
                     <div className='flex justify-center my-8'>
                         <i className='b lg:w-2/4 md:w-2/3 text-lg'>
-                            Improving your small business's growth through Onir app. It also help to improve yourcustomer service an
+                            Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an
                         </i>
                     </div>
                     <div className='space-x-6 text-lg font-semibold'>

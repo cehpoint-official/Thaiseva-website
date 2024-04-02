@@ -61,13 +61,13 @@ const Home = () => {
                     work <div className='h-3 w-3 bg-yellow-500 rounded-lg mt-2'></div>
                 </strong>
                 <p>
-                    Improving your small business's growth through Onir app. It also help to improve your money quickly Improving your small business's growth through Onir app. It also help to improve your
+                    Improving your small business's growth through THAISEVA app. It also help to improve your money quickly Improving your small business's growth through THAISEVA app. It also help to improve your
                 </p>
                 <p>
-                    customer service and make more money quicklyImproving your small business's growth through Onir app. It also help to improve your Improving your small business's growth through Onir app. It also help to improve your Improving your small business's growth through Onir app. It also help to improve your
+                    customer service and make more money quicklyImproving your small business's growth through THAISEVA app. It also help to improve your Improving your small business's growth through THAISEVA app. It also help to improve your Improving your small business's growth through THAISEVA app. It also help to improve your
                 </p>
                 <p>
-                    customer service and make more money quicklyImproving your small business's growth through Onir app. It also help to improve.
+                    customer service and make more money quicklyImproving your small business's growth through THAISEVA app. It also help to improve.
                 </p>
                 <div className='lg:flex flex md:block mt-10 items-center gap-6'>
                     <div className='font-bold relative'>

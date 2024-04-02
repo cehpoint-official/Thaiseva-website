@@ -15,7 +15,7 @@ const Overview = () => {
                         OVERVIEW ABOUT <span className='text-yellow-500 '>THAISEVA</span>
                     </p>
                     <div className='text-center flex justify-center'>
-                        <p className='m-6 text-slate-300   lg:w-[39%] md:w-[55%]'>Improving your small business's growth through Onir app. It also help to improve yourcustomer service an</p>
+                        <p className='m-6 text-slate-300   lg:w-[39%] md:w-[55%]'>Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an</p>
                     </div>
                 </div>
 
@@ -27,7 +27,7 @@ const Overview = () => {
                                 <div className=''>
                                     <p className='text-2xl font-bold'><i className='bi bi-printer-fill text-yellow-500'></i> Clean Interface</p>
                                     <p className='mt-4 text-slate-600 font-semibold'>
-                                        Improving your small business's growth through Onir app. It also help to improve yourcustomer service an
+                                        Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an
                                     </p>
                                 </div>
                             </div>
@@ -40,7 +40,7 @@ const Overview = () => {
                                 <div className=''>
                                     <p className='text-2xl font-bold'><i className='bi bi-speedometer text-yellow-500'></i> Fast Performance</p>
                                     <p className='mt-4 text-slate-600 font-semibold'>
-                                        Improving your small business's growth through Onir app. It also help to improve yourcustomer service an
+                                        Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an
                                     </p>
                                 </div>
                             </div>
@@ -53,7 +53,7 @@ const Overview = () => {
                                 <div className=''>
                                     <p className='text-2xl font-bold'><i className='bi bi-shield-fill-check text-yellow-500'></i> Data Security</p>
                                     <p className='mt-4 text-slate-600 font-semibold'>
-                                        Improving your small business's growth through Onir app. It also help to improve yourcustomer service an
+                                        Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an
                                     </p>
                                 </div>
                             </div>

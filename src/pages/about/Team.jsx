@@ -15,7 +15,7 @@ const Team = () => {
                             MEET OUR <span className='text-yellow-500 '>TEAM</span>
                         </p>
                         <div className='text-center flex justify-center'>
-                            <p className='m-6 text-slate-300 text-lg italic lg:w-[39%] md:w-[55%]'>Improving your small business's growth through Onir app. It also help to improve yourcustomer service an</p>
+                            <p className='m-6 text-slate-300 text-lg italic lg:w-[39%] md:w-[55%]'>Improving your small business's growth through THAISEVA app. It also help to improve yourcustomer service an</p>
                         </div>
                     </div>
                     <div className='grid grid-cols-12  mx-8 pb-10'>
