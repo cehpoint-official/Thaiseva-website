@@ -18,7 +18,7 @@ const Subscribe = () => {
             </div>
             <div className='flex-col text-center items-center mt-14 '>
                 <input type="text" className='p-3 lg:w-[28rem] sm:w-[23rem] rounded-s-lg sm:text-lg' placeholder='Enter your Email here' />
-                <button className='bg-yellow-500 p-3 px-10 font-semibold sm:text-lg'>Subscribe</button>
+                <button className='bg-yellow-500 p-3 px-10 rounded-e-lg font-semibold sm:text-lg'>Subscribe</button>
             </div>
         </div>
 
