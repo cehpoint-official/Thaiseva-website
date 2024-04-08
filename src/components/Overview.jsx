@@ -22,7 +22,7 @@ const Overview = () => {
                 <div className='grid grid-cols-12 text-white mx-4 pb-28'>
                     <div className='col-span-12 md:col-span-6 lg:col-span-4 p-4 '>
                         <div className='relative group '>
-                            <img src={img1} alt="" className='z-10 w-full group-hover:opacity-30' />
+                            <img src={img1} alt="" className='z-10 w-full group-hover:opacity-30 duration-500 ease-in-out' />
                             <div className='absolute transition group-hover:-translate-y-8 duration-500 ease-in-out group-hover:bg-yellow-200 z-50 bottom-0 bg-white text-black h-[12rem] m-6 rounded-3xl p-4'>
                                 <div className=''>
                                     <p className='text-2xl font-bold'><i className='bi bi-printer-fill text-yellow-500'></i> Clean Interface</p>
@@ -35,7 +35,7 @@ const Overview = () => {
                     </div>
                     <div className='col-span-12 md:col-span-6 lg:col-span-4  p-4'>
                         <div className='relative group'>
-                            <img src={img2} alt="" className='z-10 w-full group-hover:opacity-30   ' />
+                            <img src={img2} alt="" className='z-10 w-full group-hover:opacity-30  duration-500 ease-in-out ' />
                             <div className='absolute transition duration-500 ease-in-out z-50  bottom-0 bg-white  group-hover:-translate-y-8  group-hover:bg-yellow-200 text-black  h-[12rem] m-6 rounded-3xl p-4'>
                                 <div className=''>
                                     <p className='text-2xl font-bold'><i className='bi bi-speedometer text-yellow-500'></i> Fast Performance</p>
@@ -48,7 +48,7 @@ const Overview = () => {
                     </div>
                     <div className='col-span-12 md:col-span-6 md:col-start-4 lg:col-span-4  p-4'>
                         <div className='relative group'>
-                            <img src={img3} alt="" className='z-10 w-full group-hover:opacity-30   ' />
+                            <img src={img3} alt="" className='z-10 w-full group-hover:opacity-30  duration-500 ease-in-out ' />
                             <div className='absolute transition duration-500 ease-in-out group-hover:bg-yellow-200 z-50 bottom-0 group-hover:-translate-y-8 bg-white text-black h-[12rem] m-6 rounded-3xl p-4'>
                                 <div className=''>
                                     <p className='text-2xl font-bold'><i className='bi bi-shield-fill-check text-yellow-500'></i> Data Security</p>
