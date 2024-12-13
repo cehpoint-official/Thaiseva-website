@@ -1,86 +1,85 @@
 .backImg {
-    background-image: url(../assets/Landing-Img/Home/back-img.png);
-    height: auto;
-    width: 100%;
+  background-image: url(../assets/Landing-Img/Home/back-img.png);
+  height: auto;
+  width: 100%;
 }
 
 .overviewBackImg {
-    background-image: url(../assets/Landing-Img/About/back-img.png);
-    height: auto;
-    width: 100%;
-    background-color: rgb(37, 27, 27);
-
+  background-image: url(../assets/Landing-Img/About/back-img.png);
+  height: auto;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+  background-color: rgb(37, 27, 27);
 }
 
 .overviewBackImg1 {
-    background-image: url(../assets/Landing-Img/About/img-1.png);
-    height: auto;
-    width: 100%;
-    background-color: rgb(35, 12, 14);
-
+  background-image: url(../assets/Landing-Img/About/img-1.png);
+  height: auto;
+  width: 100%;
+  background-color: rgb(35, 12, 14);
 }
 
 /* guide  */
 
 .guideBackImg1 {
-    background-image: url(../assets/Landing-Img/guide/bg-img-1.png);
-    height: 100%;
-    width: 100%;
+  background-image: url(../assets/Landing-Img/guide/bg-img-1.png);
+  height: 100%;
+  width: 100%;
 }
 
 .guideBackImg2 {
-    background-image: url(../assets/Landing-Img/guide/bg-img-2.png);
-    height: auto;
-    width: 100%;
+  background-image: url(../assets/Landing-Img/guide/bg-img-2.png);
+  height: auto;
+  width: 100%;
 }
 
 .guideBackImg3 {
-    background-image: url(../assets/Landing-Img/guide/bg-img-3.png);
-    height: auto;
-    width: 100%;
+  background-image: url(../assets/Landing-Img/guide/bg-img-3.png);
+  height: auto;
+  width: 100%;
 }
 
 .guideBackImg4 {
-    background-image: url(../assets/Landing-Img/guide/bg-img-4.png);
-    height: auto;
-    width: 100%;
+  background-image: url(../assets/Landing-Img/guide/bg-img-4.png);
+  height: auto;
+  width: 100%;
 }
 
 .previewBackImg {
-    background-image: url(../assets/Landing-Img/Preview/bg-img.png);
-    height: auto;
-    width: 100%;
-    background-color: rgb(37, 27, 27);
-    /* background-repeat: no-repeat; */
-
+  background-image: url(../assets/Landing-Img/Preview/bg-img.png);
+  height: auto;
+  width: 100%;
+  background-color: rgb(37, 27, 27);
+  /* background-repeat: no-repeat; */
 }
 
 .aboutImg {
-    background-image: url(../assets/AboutImg/back-Img.png);
-    height: 100vh;
-    width: 100%;
+  background-image: url(../assets/AboutImg/back-Img.png);
+  height: 100vh;
+  width: 100%;
 }
 
 .useAppBackImg {
-    background-image: url(../assets/AboutImg/back-Img-2.png);
-    height: auto;
-    width: 100%;
-    background-color: rgb(37, 27, 27);
+  background-image: url(../assets/AboutImg/back-Img-2.png);
+  height: auto;
+  width: 100%;
+  background-color: rgb(37, 27, 27);
 }
 
 .teamBackImg {
-    background-image: url(../assets/AboutImg/back-Img-3.png);
-    height: auto;
-    width: 100%;
-    /* background-color: gb(158, 224, 26); */
-    background-repeat: no-repeat;
+  background-image: url(../assets/AboutImg/back-Img-3.png);
+  height: auto;
+  width: 100%;
+  /* background-color: gb(158, 224, 26); */
+  background-repeat: no-repeat;
 }
 
 .contactBackImg {
-    background-image: url(../assets/ContactImg/back-Img.png);
-    height: auto;
-    width: 100%;
-    object-fit: fill;
-    background-color: rgb(8, 9, 7);
-    /* background-repeat: no-repeat; */
+  background-image: url(../assets/ContactImg/back-Img.png);
+  height: auto;
+  width: 100%;
+  object-fit: fill;
+  background-color: rgb(8, 9, 7);
+  /* background-repeat: no-repeat; */
 }
