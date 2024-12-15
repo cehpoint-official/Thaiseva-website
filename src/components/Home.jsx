@@ -15,7 +15,7 @@ import Footer from "./Footer";
 
 const Home = () => {
   return (
-    <div className="overflow-x-hidden">
+    <div className="bg-white overflow-x-hidden">
       <div className="backImg">
         <div className=" bg-slate-950  bg-opacity-80 ">
           <Navbar />

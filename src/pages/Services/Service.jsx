@@ -117,7 +117,8 @@ const Service = () => {
               <div className="md:col-span-6 col-span-12 md:mt-0 mt-10">
                 <strong className="text-gray-800 font-bold text-4xl flex space-x-2 mb-6">
                   {" "}
-                  How Local <br /> Service Work
+                  How Local Assistance
+                  <br /> Service Work
                 </strong>
                 <p className="text-gray-600 font-semibold">
                   Improving your small business's growth through THAISEVA app.
